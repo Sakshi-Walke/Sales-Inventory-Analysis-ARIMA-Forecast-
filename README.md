@@ -43,4 +43,7 @@ This project demonstrates how a Data Analyst can use Python, SQL, and Power BI t
   - Wrong data types (string in Quantity)  
   - Outliers (negative sales, extremely high price)  
 
-Script: Pyth
+
+Trend Identification
+
+“Detected seasonal patterns, showing an expected 18% sales increase during festive months compared to the average.”
